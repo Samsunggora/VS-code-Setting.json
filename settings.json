@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Source Code Pro",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 1.2,
+    "editor.letterSpacing": 0.90,
+    {
+        "[rust]": {
+            "editor.defaultFormatter": "rust-lang.rust", // Makes the magic
+            "editor.formatOnSave": true // Optional
+        },
+    }
+}
